@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeraldineKwamboka
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data science and python projects
 - 📫 How to reach me kwambokageraldine@gmail.com
 
 <!---
