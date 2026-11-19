@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Geraldine Kwamboka
 
-<!--
-**GeraldineKwamboka/GeraldineKwamboka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Marketing | Data Analytics | Consumer Insights
 
-Here are some ideas to get you started:
+I'm interested in the intersection of marketing, consumer behaviour and data, and how businesses can use insights to make better decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a background in International Business Administration (Marketing) and am pursuing an MSc in Data Science and Artificial Intelligence at the University of Liverpool.
+
+### Areas of Interest
+- Marketing Analytics
+- Consumer Insights
+- Business Intelligence
+- Digital Marketing
+- Data Science & AI
+
+### Tools & Technologies
+- Python
+- SQL
+- Excel
+- Tableau
+- Power BI
+- Google Analytics 4
+
+### Currently Learning
+Developing my skills in data analytics, marketing measurement and practical applications of data in business.
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/geraldinekwamboka
+- Medium: https://geraldinekwamboka.medium.com/
+- Linktree: https://linktr.ee/geraldinekwamboka
