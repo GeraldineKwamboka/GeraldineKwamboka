@@ -4,7 +4,7 @@
 
 I'm interested in the intersection of marketing, consumer behaviour and data, and how businesses can use insights to make better decisions.
 
-I have a background in International Business Administration (Marketing) and am pursuing an MSc in Data Science and Artificial Intelligence at the University of Liverpool.
+I have a background in International Business Administration (Marketing) and I'm pursuing an MSc in Data Science and Artificial Intelligence at the University of Liverpool.
 
 ### Areas of Interest
 - Marketing Analytics
